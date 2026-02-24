@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chihieu240205">
-    <img src="https://img.shields.io/badge/GitHub-chihieu240205-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
-  </a>
+  <a href="https://github.com/chihieu240205"><img src="https://img.shields.io/badge/GitHub-chihieu240205-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"></a>
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20ML-0EA5E9?style=for-the-badge&labelColor=1F2937" alt="Focus badge">
   <img src="https://img.shields.io/badge/Location-Chicago-14B8A6?style=for-the-badge&labelColor=1F2937" alt="Location badge">
 </p>
