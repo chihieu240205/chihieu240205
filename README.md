@@ -12,3 +12,15 @@
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20ML-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Location-Chicago-orange?style=for-the-badge">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=UIC+CS+Student;Data+Engineer+%2F+ML+Engineer+in+progress;Java+%7C+Python+%7C+SQL+%7C+JavaFX+%7C+Maven;Always+building%2C+always+learning" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chihieu240205&style=for-the-badge&color=0e75b6" alt="profile views"/>
+</p>
+
+<p align="center">
+  <b>Code. Build. Learn. Repeat.</b>
+</p>
