@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/chihieu240205">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Java+%7C+Python+%7C+SQL+%7C+JavaFX+%7C+Maven;Data+Engineering+%7C+Machine+Learning+%7C+Software+Development;Building+real+projects+and+leveling+up+every+day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Python+%7C+SQL+%7C+Java+%7C+JavaFX+%7C+Maven;Data+Engineering+%7C+Machine+Learning+%7C+Software+Development;Building+real+projects+and+leveling+up+every+day" alt="Typing SVG" />
   </a>
 </p>
 
