@@ -15,8 +15,4 @@
   <img src="https://img.shields.io/badge/Location-Chicago-orange?style=for-the-badge" alt="Location badge">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chihieu240205&style=for-the-badge&color=0e75b6" alt="profile views"/>
-</p>
-
 <p align="center"><b>Code. Build. Learn. Repeat.</b></p>
