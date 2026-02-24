@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chi Hieu Nguyen 👋</h1>
+<h1 align="center">Hi, I'm Chi Hieu Nguyen</h1>
 <h3 align="center">CS Student @ UIC • Aspiring Data Engineer / ML Engineer • Building real projects with Java, Python, SQL, and JavaFX</h3>
 
 <p align="center">
