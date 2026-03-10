@@ -11,7 +11,7 @@
   <a href="https://github.com/chihieu240205">
     <img src="https://img.shields.io/badge/GitHub-chihieu240205-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=334155" alt="GitHub badge">
   </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20ML-8B5CF6?style=for-the-badge&labelColor=334155" alt="Focus badge">
+  <img src="https://img.shields.io/badge/Focus-Data%20Scientist%20%26%20ML-8B5CF6?style=for-the-badge&labelColor=334155" alt="Focus badge">
   <img src="https://img.shields.io/badge/Location-Chicago-14B8A6?style=for-the-badge&labelColor=334155" alt="Location badge">
 </p>
 
