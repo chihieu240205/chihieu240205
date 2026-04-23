@@ -16,3 +16,64 @@
 </p>
 
 <p align="center"><b>I build projects that turn data into useful predictions, insights, and tools.</b></p>
+
+## Table of Contents
+- [About Me](#about-me)
+- [What I'm Working On](#what-im-working-on)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [Currently Learning](#currently-learning)
+- [Contact](#contact)
+
+## About Me
+
+I am a Computer Science student at the University of Illinois Chicago interested in data science, machine learning, and data engineering. I enjoy building projects that turn raw data into useful predictions, insights, and practical tools.
+
+My experience includes machine learning projects, SQL-based analytics, data cleaning, feature engineering, and backend-focused development. I have worked on predictive modeling projects in finance and sports analytics, and I am especially interested in building systems that connect data, software, and real-world decision-making.
+
+I am currently looking for opportunities where I can continue growing in data science, machine learning, or data engineering through practical, hands-on work.
+
+## What I'm Working On
+
+- Building stronger portfolio projects in machine learning and analytics
+- Improving my project documentation with better READMEs, visuals, and demos
+- Strengthening Python, SQL, and data pipeline skills
+- Preparing for internships in data science, ML, and data engineering roles
+
+## Tech Stack
+
+**Languages:** Python, SQL, C++, Java  
+**Libraries / Tools:** Pandas, NumPy, scikit-learn, Matplotlib, Jupyter Notebook, Git, VS Code  
+**Areas of Interest:** Data Science, Machine Learning, Data Engineering, Analytics, Software Development
+
+## Featured Projects
+
+### Gold Regime Prediction
+A machine learning project for 1-day-ahead gold price forecasting using lagged returns, RSI, and macroeconomic features. The model outperformed a random-walk baseline on the test set.
+
+**Tech:** Python, Pandas, scikit-learn, Matplotlib  
+**Repo:** [Gold-Regime-project](https://github.com/chihieu240205/Gold-Regime-project)
+
+### NBA Playoff Performance Prediction
+A data science project that analyzes player and team data to forecast playoff performance using cleaned datasets, feature engineering, and visualization.
+
+**Tech:** Python, Pandas, Jupyter Notebook, data visualization tools  
+**Repo:** [NBA-project](https://github.com/chihieu240205/NBA-project)
+
+### Coffee Shop Website
+A full-stack academic project focused on database design, backend development, and frontend integration for a coffee shop management website.
+
+**Tech:** Java, JavaFX, SQL, Maven  
+**Repo:** [coffee-shop-project](https://github.com/chihieu240205/coffee-shop-project)
+
+## Currently Learning
+
+- Better model evaluation and feature engineering workflows
+- Cleaner data pipeline design
+- Stronger technical communication through README writing and project demos
+
+## Contact
+
+- **Email:** nguyenchihieu240205@gmail.com
+- **GitHub:** [github.com/chihieu240205](https://github.com/chihieu240205)
+- **LinkedIn:** https://www.linkedin.com/in/chihieu-nguyen/
