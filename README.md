@@ -60,17 +60,17 @@ A data science project that analyzes player and team data to forecast playoff pe
 **Tech:** Python, Pandas, Jupyter Notebook, data visualization tools  
 **Repo:** [NBA-project](https://github.com/chihieu240205/NBA-project)
 
-### Coffee Shop Website
-A full-stack academic project focused on database design, backend development, and frontend integration for a coffee shop management website.
+### Text-Prompted Video Object Tracking
+A computer vision research project that studies text-prompted video object tracking using Grounding DINO and SAM2. Built a baseline pipeline for prompt-conditioned initialization, mask propagation, and controlled detector-based re-grounding, then evaluated it on a locked 19-clip qualitative subset.
 
-**Tech:** Java, JavaFX, SQL, Maven  
-**Repo:** [coffee-shop-project](https://github.com/chihieu240205/coffee-shop-project)
+**Highlights:**
+- Built a Grounding DINO + SAM2 tracking pipeline for text-prompted video object tracking
+- Ran a controlled ablation study on periodic detector-based re-grounding
+- Showed that stricter IoU-gated reseeding improved results over a more permissive strategy
+- Analyzed failure modes including crowd ambiguity, occlusion, and small-object fragility
 
-## Currently Learning
-
-- Better model evaluation and feature engineering workflows
-- Cleaner data pipeline design
-- Stronger technical communication through README writing and project demos
+**Tech:** Python, Computer Vision, Grounding DINO, SAM2, Google Colab, Jupyter Notebook  
+**Repo:** [ProjectFinalCS415-main]
 
 ## Contact
 
