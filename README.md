@@ -70,7 +70,7 @@ A computer vision research project that studies text-prompted video object track
 - Analyzed failure modes including crowd ambiguity, occlusion, and small-object fragility
 
 **Tech:** Python, Computer Vision, Grounding DINO, SAM2, Google Colab, Jupyter Notebook  
-**Repo:** [ProjectFinalCS415-main]
+**Repo:** [ProjectFinalCS415-main](https://github.com/chihieu240205/ProjectFinalCS415)
 
 ## Contact
 
